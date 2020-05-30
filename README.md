@@ -3,9 +3,9 @@ Mini exploratory project to demonstrate the functionality of the officer package
 
 # Objectives
 
-1.) Create fake data to emulate a "scenario analysis" using a random walk method
-1.) Save plots to disk
-1.) Generate PowerPoint report starting with template, and adding a new slide with each generated image
+1. Create fake data to emulate a "scenario analysis" using a random walk method
+2. Save plots to disk
+3. Generate PowerPoint report starting with template, and adding a new slide with each generated image
 
 #### Example Plot
 ![alt text](https://github.com/jdegregorio/Demo-officer/blob/master/plots/plot_scenario_A.jpg?raw=true)
