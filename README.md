@@ -17,3 +17,10 @@ The resulting report generated using the officer package looked great! It was fa
 #### Example Report
 
 ![alt text](https://github.com/jdegregorio/Demo-officer/blob/master/artifacts/screenshot_output.jpg?raw=true)
+
+
+# Other Resources
+
+This package is helpful for creating and manipulating all kinds of Microsoft documents. Full documentation included at the link below.
+
+[LINK to Documentation](https://davidgohel.github.io/officer/)
