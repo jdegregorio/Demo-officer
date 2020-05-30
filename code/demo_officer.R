@@ -11,7 +11,7 @@ library(glue)
 library(officer)
 
 # Define parameters
-n_scenarios <- 5
+n_scenarios <- 20
 mean_min <- -2
 mean_max <- 2
 sd_min   <- 10
